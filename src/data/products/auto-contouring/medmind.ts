@@ -61,7 +61,7 @@ export const MEDMIND_PRODUCTS: ProductDetails[] = [
         regulationNumber: "21 CFR 892.2050",
         decisionDate: "2022-03-25"
       },
-      intendedUseStatement: "RT-Mind-AI is intended for automatic segmentation of organs at risk and clinical target volumes in CT images for radiation therapy planning."
+      intendedUseStatement: "RT-Mind-AI is intended for automatic segmentation of organs at risk and clinical target volumes in non-contrast CT images for radiation therapy planning."
     },
     market: {
       onMarketSince: "2020",
